@@ -1,19 +1,16 @@
-pages:
-  - name: Home
-    path: /app/user-data/conf.yml
-  - name: Banana
-    path: /app/user-data/banana.yml
 pageInfo:
-  title: 网页标签
-  description: 网页标签管理面板
+  title: 🥭🍌🍇
+  description: Github远程标签
   navLinks:
     - title: Google
       path: https://www.google.com
+
 appConfig:
   theme: nord
   layout: auto
   iconSize: undefined
   language: cn
+
 sections:
   - name: 工具集合
     icon: 🧋
