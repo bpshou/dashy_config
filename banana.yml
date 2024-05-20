@@ -161,3 +161,7 @@ sections:
         icon: favicon
         url: https://33.agilestudio.cn/
         id: 3_65069_
+      - title: Web Check
+        icon: favicon
+        url: https://web-check.as93.net/
+        id: 4_65069_
