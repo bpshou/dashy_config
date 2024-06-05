@@ -18,150 +18,102 @@ sections:
       - title: it 工具
         icon: favicon
         url: https://it-tools.tech/
-        id: 0_105002_it
       - title: Json Crack
         icon: favicon
         url: https://jsoncrack.com/editor
-        id: 1_105002_jsoncrack
       - title: Hoppscotch
         icon: favicon
         url: https://hoppscotch.io/
-        id: 2_105002_hoppscotch
       - title: Swagger
         icon: favicon
         url: https://petstore.swagger.io/
-        id: 3_105002_swagger
       - title: Excalidraw画板
         icon: favicon
         url: https://excalidraw.com/
-        id: 4_105002_excalidraw
       - title: Diagrams画图
         icon: favicon
         url: https://app.diagrams.net/
-        id: 5_105002_diagrams
       - title: 无限画布
         icon: favicon
         url: https://www.tldraw.com/
-        id: 6_105002_
       - title: 短代码片段
         icon: 📝
         url: https://www.30secondsofcode.org/
-        id: 7_105002_
       - title: proton邮箱
         icon: favicon
         url: https://mail.proton.me/u/0/inbox
-        id: 11_105002_proton
       - title: Screego
         icon: favicon
         url: https://app.screego.net/
-        id: 12_105002_screego
       - title: LinuxCommand
         icon: favicon
         url: https://wangchujiang.com/linux-command/
-        id: 13_105002_linuxcommand
       - title: 网络瑞士军刀
         icon: ✂️
         url: https://gchq.github.io/CyberChef/
-        id: 14_105002_
       - title: httpbin
         icon: favicon
         url: https://httpbin.org/
-        id: 15_105002_httpbin
 
-    displayData:
-      sortBy: default
-      rows: 1
-      cols: 1
-      collapsed: false
-      hideForGuests: false
   - name: AI
     icon: 🏝️
-    displayData:
-      sortBy: default
-      rows: 1
-      cols: 1
-      collapsed: false
-      hideForGuests: false
     items:
       - title: Poe
         icon: generative
         url: https://poe.com/
-        id: 16_105002_poe
       - title: 免费询问互联网
         icon: generative
         url: https://www.perplexity.ai/
-        id: 8_105002_
       - title: 哩布哩布AI
         icon: favicon
         url: https://www.liblib.art/
-        id: 0_138_ai
       - title: Esheep
         icon: favicon
         url: https://www.esheep.com/app
-        id: 1_138_esheep
       - title: 通义万相
         icon: favicon
         url: https://tongyi.aliyun.com/wanxiang/
-        id: 2_138_
       - title: 无界AI
         icon: favicon
         url: https://www.wujieai.com/
-        id: 3_138_ai
       - title: vegaai
         icon: favicon
         url: https://vegaai.net/
-        id: 4_138_vegaai
       - title: Civitai
         icon: generative
         url: https://civitai.com/
-        id: 5_138_civitai
       - title: Ai换声音
         icon: favicon
         url: https://product.supertone.ai/shift
-        id: 6_138_ai
       - title: openart workflows
         icon: favicon
         url: https://openart.ai/workflows/home
-        id: 7_138_openartworkflows
       - title: comfyworkflows
         icon: favicon
         url: https://comfyworkflows.com/workflows
-        id: 8_138_comfyworkflows
       - title: Quivr AI
         icon: generative
         url: https://chat.quivr.app
-        id: 10_105002_quivrai
       - title: 在线数据库设计工具
         icon: favicon
         url: https://drawdb.vercel.app/editor
-        id: 9_105002_
+
   - name: 网络
     icon: 🌐
-    displayData:
-      sortBy: default
-      rows: 1
-      cols: 1
-      collapsed: false
-      hideForGuests: false
     items:
       - title: fofa
         icon: favicon
         url: https://fofa.info/
-        id: 0_65069_fofa
       - title: shodan
         icon: favicon
         url: https://www.shodan.io/
-        id: 1_65069_shodan
       - title: 钟馗之眼
         icon: favicon
         url: https://www.zoomeye.org/
-        id: 2_65069_
       - title: 33台词
         description: 通过台词找影片素材
         icon: favicon
         url: https://33.agilestudio.cn/
-        id: 3_65069_
       - title: Web Check
-        icon: favicon
+        icon: generative
         url: https://web-check.as93.net/
-        id: 4_65069_
