@@ -36,6 +36,9 @@ sections:
       - title: 无限画布
         icon: favicon
         url: https://www.tldraw.com/
+      - title: Affine知识库
+        icon: favicon
+        url: https://app.affine.pro/
       - title: 短代码片段
         icon: 📝
         url: https://www.30secondsofcode.org/
