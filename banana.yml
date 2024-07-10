@@ -57,6 +57,9 @@ sections:
       - title: httpbin
         icon: favicon
         url: https://httpbin.org/
+      - title: element聊天
+        icon: favicon
+        url: https://app.element.io/
 
   - name: AI
     icon: 🏝️
