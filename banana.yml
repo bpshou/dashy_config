@@ -123,3 +123,10 @@ sections:
       - title: Web Check
         icon: generative
         url: https://web-check.xyz/
+
+  - name: 知识
+    icon: 🧀
+    items:
+      - title: hello-algo
+        icon: favicon
+        url: https://www.hello-algo.com/
