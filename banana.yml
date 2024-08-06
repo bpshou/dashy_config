@@ -103,6 +103,9 @@ sections:
       - title: 在线数据库设计工具
         icon: favicon
         url: https://drawdb.vercel.app/editor
+      - title: 超级记忆AI
+        icon: favicon
+        url: https://supermemory.ai/
 
   - name: 网络
     icon: 🌐
