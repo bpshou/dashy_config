@@ -133,3 +133,16 @@ sections:
       - title: hello-algo
         icon: favicon
         url: https://www.hello-algo.com/
+
+  - name: Cloudflare
+    icon: 🚀
+    items:
+      - title: CloudFlareSpeed (官方)
+        icon: favicon
+        url: https://speed.cloudflare.com/
+      - title: CloudFlareYes
+        icon: favicon
+        url: https://stock.hostmonit.com/CloudFlareYes
+      - title: IpFlaresCloud
+        icon: favicon
+        url: http://ip.flares.cloud/
