@@ -146,3 +146,17 @@ sections:
       - title: IpFlaresCloud
         icon: favicon
         url: http://ip.flares.cloud/
+
+  - name: 办公
+    icon: 💻
+    items:
+      - title: onlyoffice
+        icon: favicon
+        url: https://dece.onlyoffice.com/
+
+  - name: 有趣的
+    icon: 🤪
+    items:
+      - title: emojiPedia
+        icon: favicon
+        url: https://emojipedia.org/
