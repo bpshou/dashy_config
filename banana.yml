@@ -160,3 +160,10 @@ sections:
       - title: emojiPedia
         icon: favicon
         url: https://emojipedia.org/
+
+  - name: Game
+    icon: 🎮
+    items:
+      - title: battleCity
+        icon: favicon
+        url: https://battle-city.js.org/#/
