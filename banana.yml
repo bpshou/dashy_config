@@ -164,6 +164,21 @@ sections:
   - name: Game
     icon: 🎮
     items:
-      - title: battleCity
+      - title: 坦克大战
         icon: favicon
         url: https://battle-city.js.org/#/
+      - title: 俄罗斯方块
+        icon: favicon
+        url: https://chvin.github.io/react-tetris/?lan=zh
+      - title: 国际象棋
+        icon: favicon
+        url: https://lichess.org/
+      - title: 高尔夫
+        icon: favicon
+        url: https://mgerdes.github.io/minigolf.html
+      - title: 2048
+        icon: favicon
+        url: https://play2048.co/
+      - title: 老游戏
+        icon: favicon
+        url: https://zaixianwan.app/
