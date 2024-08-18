@@ -176,7 +176,7 @@ sections:
       - title: 高尔夫
         icon: favicon
         url: https://mgerdes.github.io/minigolf.html
-      - title: 2048
+      - title: play2048
         icon: favicon
         url: https://play2048.co/
       - title: 老游戏
