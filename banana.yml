@@ -151,7 +151,7 @@ sections:
     icon: 💻
     items:
       - title: onlyoffice
-        icon: favicon
+        icon: generative
         url: https://dece.onlyoffice.com/
 
   - name: 有趣的
@@ -168,13 +168,13 @@ sections:
         icon: favicon
         url: https://battle-city.js.org/#/
       - title: 俄罗斯方块
-        icon: favicon
+        icon: generative
         url: https://chvin.github.io/react-tetris/?lan=zh
       - title: 国际象棋
         icon: favicon
         url: https://lichess.org/
       - title: 高尔夫
-        icon: favicon
+        icon: generative
         url: https://mgerdes.github.io/minigolf.html
       - title: play2048
         icon: favicon
