@@ -126,6 +126,15 @@ sections:
       - title: Web Check
         icon: generative
         url: https://web-check.xyz/
+      - title: IP地址 whatismyipaddress
+        icon: generative
+        url: https://whatismyipaddress.com/
+      - title: IP地址 geodatatool
+        icon: generative
+        url: https://www.geodatatool.com/
+      - title: IP地址 iplocation
+        icon: generative
+        url: https://www.iplocation.net/
 
   - name: 知识
     icon: 🧀
