@@ -64,6 +64,9 @@ sections:
   - name: AI
     icon: 🏝️
     items:
+      - title: ChatGPT
+        icon: generative
+        url: https://chatgpt.com/
       - title: Poe
         icon: generative
         url: https://poe.com/
