@@ -60,6 +60,9 @@ sections:
       - title: element聊天
         icon: favicon
         url: https://app.element.io/
+      - title: NginxConfig
+        icon: favicon
+        url: https://do.co/nginxconfig
 
   - name: AI
     icon: 🏝️
