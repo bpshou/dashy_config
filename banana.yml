@@ -148,6 +148,9 @@ sections:
       - title: hello-algo
         icon: favicon
         url: https://www.hello-algo.com/
+      - title: Go 风格指南
+        icon: favicon
+        url: https://google.github.io/styleguide/go/
 
   - name: Cloudflare
     icon: 🚀
