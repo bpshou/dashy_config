@@ -151,6 +151,9 @@ sections:
       - title: Go 风格指南
         icon: favicon
         url: https://google.github.io/styleguide/go/
+      - title: 键盘工人设计的单词学习
+        icon: favicon
+        url: https://qwerty.kaiyi.cool/
 
   - name: Cloudflare
     icon: 🚀
