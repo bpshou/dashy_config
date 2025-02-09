@@ -63,6 +63,9 @@ sections:
       - title: NginxConfig
         icon: favicon
         url: https://do.co/nginxconfig
+      - title: Reactbits
+        icon: favicon
+        url: https://www.reactbits.dev/
 
   - name: AI
     icon: 🏝️
