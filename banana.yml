@@ -115,6 +115,9 @@ sections:
       - title: 超级记忆AI
         icon: favicon
         url: https://supermemory.ai/
+      - title: 从 AI 开始交付3D动画网
+        icon: favicon
+        url: https://www.dora.run/
 
   - name: 网络
     icon: 🌐
@@ -184,6 +187,9 @@ sections:
       - title: emojiPedia
         icon: favicon
         url: https://emojipedia.org/
+      - title: 假装 Windows 升级界面
+        icon: favicon
+        url: https://tools.devhjz.com/fakeupdate/
 
   - name: Game
     icon: 🎮
@@ -206,3 +212,9 @@ sections:
       - title: 老游戏
         icon: favicon
         url: https://zaixianwan.app/
+      - title: 在线CS
+        icon: favicon
+        url: https://play-cs.com/
+      - title: 红色警戒
+        icon: favicon
+        url: https://ra2web.com/
