@@ -160,6 +160,9 @@ sections:
       - title: 键盘工人设计的单词学习
         icon: favicon
         url: https://qwerty.kaiyi.cool/
+      - title: 句乐部
+        icon: favicon
+        url: https://julebu.co/
 
   - name: Cloudflare
     icon: 🚀
@@ -190,6 +193,9 @@ sections:
       - title: 假装 Windows 升级界面
         icon: favicon
         url: https://tools.devhjz.com/fakeupdate/
+      - title: 魔曰
+        icon: favicon
+        url: https://abra.halu.ca/
 
   - name: Game
     icon: 🎮
