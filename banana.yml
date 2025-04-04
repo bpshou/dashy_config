@@ -70,6 +70,9 @@ sections:
   - name: AI
     icon: 🏝️
     items:
+      - title: Deepseek
+        icon: favicon
+        url: https://chat.deepseek.com/
       - title: ChatGPT
         icon: generative
         url: https://chatgpt.com/
@@ -79,33 +82,9 @@ sections:
       - title: 免费询问互联网
         icon: generative
         url: https://www.perplexity.ai/
-      - title: 哩布哩布AI
-        icon: favicon
-        url: https://www.liblib.art/
-      - title: Esheep
-        icon: favicon
-        url: https://www.esheep.com/app
-      - title: 通义万相
-        icon: favicon
-        url: https://tongyi.aliyun.com/wanxiang/
-      - title: 无界AI
-        icon: favicon
-        url: https://www.wujieai.com/
-      - title: vegaai
-        icon: favicon
-        url: https://vegaai.net/
-      - title: Civitai
-        icon: generative
-        url: https://civitai.com/
       - title: Ai换声音
         icon: favicon
         url: https://product.supertone.ai/shift
-      - title: openart workflows
-        icon: favicon
-        url: https://openart.ai/workflows/home
-      - title: comfyworkflows
-        icon: favicon
-        url: https://comfyworkflows.com/workflows
       - title: Quivr AI
         icon: generative
         url: https://chat.quivr.app
@@ -118,6 +97,31 @@ sections:
       - title: 从 AI 开始交付3D动画网
         icon: favicon
         url: https://www.dora.run/
+
+  - name: AI生图
+    icon: 🏝️
+    items:
+      - title: Civitai
+        icon: https://civitai.com/favicon-blue.ico
+        url: https://civitai.com/
+      - title: 哩布哩布AI
+        icon: favicon
+        url: https://www.liblib.art/
+      - title: 通义万相
+        icon: favicon
+        url: https://tongyi.aliyun.com/wanxiang/
+      - title: openart workflows
+        icon: favicon
+        url: https://openart.ai/workflows/home
+      - title: comfyworkflows
+        icon: favicon
+        url: https://comfyworkflows.com/workflows
+      - title: 无界AI
+        icon: favicon
+        url: https://www.wujieai.com/
+      - title: vegaai
+        icon: favicon
+        url: https://vegaai.net/
 
   - name: 网络
     icon: 🌐
