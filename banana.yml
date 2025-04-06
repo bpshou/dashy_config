@@ -200,6 +200,16 @@ sections:
       - title: 魔曰
         icon: favicon
         url: https://abra.halu.ca/
+      - title: Apple 苹果产品参数中心
+        icon: favicon
+        url: https://hubweb.cn/
+      - title: 设备维修
+        icon: favicon
+        url: https://www.ifixit.com/
+      - title: 全历史
+        icon: favicon
+        url: https://www.allhistory.com/
+
 
   - name: Game
     icon: 🎮
