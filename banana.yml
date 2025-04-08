@@ -241,3 +241,10 @@ sections:
       - title: 在线游戏 AirConsole
         icon: favicon
         url: https://www.airconsole.com/
+
+  - name: 商业
+    icon: 💻
+    items:
+      - title: 大盘云图
+        icon: favicon
+        url: https://dapanyuntu.com/
