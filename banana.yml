@@ -215,6 +215,9 @@ sections:
       - title: 麦田艺术-世界名画
         icon: favicon
         url: https://www.nbfox.com/
+      - title: cobalt视频下载
+        icon: favicon
+        url: https://cobalt.tools/
 
 
   - name: Game
