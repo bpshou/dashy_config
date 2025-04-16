@@ -209,6 +209,12 @@ sections:
       - title: 全历史
         icon: favicon
         url: https://www.allhistory.com/
+      - title: VERSUS万物皆可对比
+        icon: favicon
+        url: https://versus.com/
+      - title: 麦田艺术-世界名画
+        icon: favicon
+        url: https://www.nbfox.com/
 
 
   - name: Game
