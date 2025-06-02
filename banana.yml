@@ -21,6 +21,12 @@ sections:
       - title: Json Crack
         icon: favicon
         url: https://jsoncrack.com/editor
+      - title: Json 4u
+        icon: favicon
+        url: https://json4u.com/editor
+      - title: Json todiagram
+        icon: favicon
+        url: https://todiagram.com/editor
       - title: Hoppscotch
         icon: favicon
         url: https://hoppscotch.io/
