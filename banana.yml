@@ -22,7 +22,7 @@ sections:
         icon: favicon
         url: https://jsoncrack.com/editor
       - title: Json 4u
-        icon: favicon
+        icon: https://json4u.com/icon.svg
         url: https://json4u.com/editor
       - title: Json todiagram
         icon: favicon
@@ -103,6 +103,9 @@ sections:
       - title: 从 AI 开始交付3D动画网
         icon: favicon
         url: https://www.dora.run/
+      - title: flowith AI
+        icon: favicon
+        url: https://flowith.io/
 
   - name: AI生图
     icon: 🏝️
