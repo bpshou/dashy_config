@@ -227,6 +227,9 @@ sections:
       - title: cobalt视频下载
         icon: favicon
         url: https://cobalt.tools/
+      - title: 🌀 无意义的活动生成器
+        icon: favicon
+        url: https://svenstaro.github.io/genact/
 
 
   - name: Game
