@@ -72,6 +72,9 @@ sections:
       - title: Reactbits
         icon: favicon
         url: https://www.reactbits.dev/
+      - title: file-transfer-go
+        icon: favicon
+        url: https://transfer.52python.cn/
 
   - name: AI
     icon: 🏝️
