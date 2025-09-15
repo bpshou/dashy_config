@@ -131,6 +131,9 @@ sections:
       - title: vegaai
         icon: favicon
         url: https://vegaai.net/
+      - title: lovart
+        icon: favicon
+        url: https://www.lovart.ai/zh/home
 
   - name: 网络
     icon: 🌐
