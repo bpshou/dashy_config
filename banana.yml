@@ -75,6 +75,9 @@ sections:
       - title: file-transfer-go
         icon: favicon
         url: https://transfer.52python.cn/
+      - title: play-with-docker
+        icon: favicon
+        url: https://labs.play-with-docker.com/
 
   - name: AI
     icon: 🏝️
