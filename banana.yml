@@ -185,6 +185,9 @@ sections:
       - title: 句乐部
         icon: favicon
         url: https://julebu.co/
+      - title: NCE Flow
+        icon: favicon
+        url: https://nce.luzhenhua.cn/
 
   - name: Cloudflare
     icon: 🚀
