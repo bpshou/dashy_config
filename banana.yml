@@ -81,6 +81,9 @@ sections:
       - title: 在线组装电脑
         icon: favicon
         url: https://buildcores.com/
+      - title: 文档提取神器
+        icon: favicon
+        url: https://mineru.net/OpenSourceTools/Extractor
 
   - name: AI
     icon: 🏝️
