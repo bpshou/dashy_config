@@ -78,6 +78,9 @@ sections:
       - title: play-with-docker
         icon: favicon
         url: https://labs.play-with-docker.com/
+      - title: 在线组装电脑
+        icon: favicon
+        url: https://buildcores.com/
 
   - name: AI
     icon: 🏝️
