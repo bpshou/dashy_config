@@ -83,7 +83,7 @@ sections:
         url: https://buildcores.com/
       - title: 文档提取神器
         icon: favicon
-        url: https://mineru.net/OpenSourceTools/Extractor
+        url: https://huggingface.co/spaces/opendatalab/MinerU
 
   - name: AI
     icon: 🏝️
