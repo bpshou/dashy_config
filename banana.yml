@@ -248,6 +248,9 @@ sections:
       - title: 🌀 无意义的活动生成器
         icon: favicon
         url: https://svenstaro.github.io/genact/
+      - title: biodigital医学
+        icon: favicon
+        url: https://www.biodigital.com/
 
 
   - name: Game
