@@ -280,6 +280,9 @@ sections:
       - title: 在线游戏 AirConsole
         icon: favicon
         url: https://www.airconsole.com/
+      - title: itch
+        icon: favicon
+        url: https://itch.io/
 
   - name: 商业
     icon: 💻
