@@ -118,6 +118,9 @@ sections:
       - title: flowith AI
         icon: favicon
         url: https://flowith.io/
+      - title: Next AI Drawio
+        icon: favicon
+        url: https://next-ai-drawio.jiang.jp/zh
 
   - name: AI生图
     icon: 🏝️
