@@ -197,6 +197,9 @@ sections:
       - title: NCE Flow
         icon: favicon
         url: https://nce.luzhenhua.cn/
+      - title: Hack Security
+        icon: favicon
+        url: https://hacksplaining.com/
 
   - name: Cloudflare
     icon: 🚀
