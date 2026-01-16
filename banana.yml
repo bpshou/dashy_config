@@ -121,6 +121,9 @@ sections:
       - title: Next AI Drawio
         icon: favicon
         url: https://next-ai-drawio.jiang.jp/zh
+      - title: Skillsmp
+        icon: favicon
+        url: https://skillsmp.com/
 
   - name: AI生图
     icon: 🏝️
