@@ -223,6 +223,9 @@ sections:
       - title: onlyoffice
         icon: generative
         url: https://dece.onlyoffice.com/
+      - title: MTranServer
+        icon: generative
+        url: https://mtranserver.ipacel.cc/ui/
 
   - name: 有趣的
     icon: 🤪
