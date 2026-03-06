@@ -124,6 +124,9 @@ sections:
       - title: Skillsmp
         icon: favicon
         url: https://skillsmp.com/
+      - title: LLM Visualization
+        icon: favicon
+        url: https://bbycroft.net/
 
   - name: AI生图
     icon: 🏝️
